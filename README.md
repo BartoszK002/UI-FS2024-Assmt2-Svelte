@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Svelte + Vite
 
 This template should help get you started developing with Svelte in Vite.
@@ -45,3 +46,7 @@ If you have state that's important to retain within a component, consider creati
 import { writable } from 'svelte/store'
 export default writable(0)
 ```
+=======
+# UI-FS2024-Assmt2-Svelte
+Svelte project to implement a basic goal tracking and journaling component or set of components.
+>>>>>>> dc0ee6b1322270b40deabb0c10d25e1600c2143a
